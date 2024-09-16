@@ -8,8 +8,6 @@ This project features an interactive and comprehensive Power BI dashboard focusi
 ## Features
 
 - **Match Results**: Detailed insights into the results of each match throughout the championship.
-- **Team Performances**: Visual comparisons of teams' performances across different metrics such as goals scored, goals conceded, and win/loss ratio.
-- **Player Statistics**: Individual player statistics, including goal scoring, assists, and other performance metrics.
 - **Historical Data**: Comparison of team and player performance across different editions of the tournament.
 - **Interactive Visualizations**: User-friendly visuals and filters for custom views.
 
@@ -17,7 +15,6 @@ This project features an interactive and comprehensive Power BI dashboard focusi
 
 - **Power BI Desktop**: Used to create the interactive dashboard and visualizations.
 - **Microsoft Excel**: For initial data processing and cleaning.
-- **Python**: For data scraping and automation of data uploading.
 - **Public APIs**: To fetch additional data such as player profiles and team statistics.
 
 ## Data Sources
